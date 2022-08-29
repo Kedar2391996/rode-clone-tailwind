@@ -2,7 +2,7 @@
 
 ### Project Development Took 20 Hours
 
-[Live Link]()
+[Live Link](https://rode-clone-tailwind-fsjs.netlify.app/ "Rode")
 
 ## Screenshots
 
